@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-21T04:30:13.041Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="uysFR4xrE7yv2cYIUDJA" version="20.1.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-07-21T09:35:30.825Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="a0iHH4P6tK4M2lrhjUUG" version="20.1.2" type="github" pages="4">
   <diagram id="C6Nlm0TTXZrlMwkO_Cya" name="initialize">
     <mxGraphModel dx="1792" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -407,7 +407,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3O5JIxUlwFOE7siPUW60" name="kube-scheduler">
-    <mxGraphModel dx="4067" dy="2432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3446" dy="1674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1023,8 +1023,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="500" y="1070" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1180" y="810" />
-              <mxPoint x="1180" y="1020" />
+              <mxPoint x="1290" y="810" />
+              <mxPoint x="1290" y="1020" />
               <mxPoint x="500" y="1020" />
             </Array>
           </mxGeometry>
@@ -1033,7 +1033,7 @@
           <mxGeometry x="1080" y="720" width="80" height="120" as="geometry" />
         </mxCell>
         <mxCell id="T8-VolRiWS7lJ4Z5xE2T-35" value="PostBind" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;shadow=1;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="720" width="80" height="120" as="geometry" />
+          <mxGeometry x="1310" y="720" width="80" height="120" as="geometry" />
         </mxCell>
         <mxCell id="T8-VolRiWS7lJ4Z5xE2T-36" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=none;endWidth=8;endSize=4.1;shadow=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -1324,7 +1324,7 @@
           <mxGeometry x="-711.5" y="695" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="0mLKpLw8jlc4pZlw2vI9-146" value="&lt;font face=&quot;PingFang SC, Lantinghei SC, Microsoft YaHei, arial, 宋体, sans-serif, tahoma&quot; color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;⑤&lt;/span&gt;&lt;/font&gt;" style="rounded=0;fontFamily=Lucida Console;fontSize=14;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;shadow=0;sketch=0;glass=0;labelPosition=center;verticalLabelPosition=middle;spacing=2;strokeColor=none;fillColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-413" y="690" width="30" height="20" as="geometry" />
+          <mxGeometry x="-283" y="1140" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="0mLKpLw8jlc4pZlw2vI9-147" value="&lt;font face=&quot;PingFang SC, Lantinghei SC, Microsoft YaHei, arial, 宋体, sans-serif, tahoma&quot; color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;⑦&lt;/span&gt;&lt;/font&gt;" style="rounded=0;fontFamily=Lucida Console;fontSize=14;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;shadow=0;sketch=0;glass=0;labelPosition=center;verticalLabelPosition=middle;spacing=2;strokeColor=none;fillColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="-38" y="690" width="30" height="20" as="geometry" />
@@ -1342,13 +1342,13 @@
           <mxGeometry x="1110" y="690" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="0mLKpLw8jlc4pZlw2vI9-152" value="⑬" style="rounded=0;fontFamily=Lucida Console;fontSize=14;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;shadow=0;sketch=0;glass=0;labelPosition=center;verticalLabelPosition=middle;spacing=2;strokeColor=none;fillColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1315" y="690" width="30" height="20" as="geometry" />
+          <mxGeometry x="1335" y="690" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="0mLKpLw8jlc4pZlw2vI9-153" value="&lt;font face=&quot;PingFang SC, Lantinghei SC, Microsoft YaHei, arial, 宋体, sans-serif, tahoma&quot; color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;⑥&lt;/span&gt;&lt;/font&gt;" style="rounded=0;fontFamily=Lucida Console;fontSize=14;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;shadow=0;sketch=0;glass=0;labelPosition=center;verticalLabelPosition=middle;spacing=2;strokeColor=none;fillColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-293" y="1140" width="30" height="20" as="geometry" />
+          <mxGeometry x="-413" y="695" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="0mLKpLw8jlc4pZlw2vI9-154" value="&lt;div&gt;①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮⑯⑰⑱&lt;br&gt;&lt;/div&gt;" style="rounded=0;fontFamily=Lucida Console;fontSize=14;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;shadow=0;sketch=0;glass=0;labelPosition=center;verticalLabelPosition=middle;spacing=2;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="370" y="-72.5" width="360" height="32.5" as="geometry" />
+        <mxCell id="0mLKpLw8jlc4pZlw2vI9-154" value="&lt;div&gt;① 从active queue中pop出一个待调度的pod，由于active queue是根据pod 优先级排序的优先队列，因此pop出来的pod一定是当前active queue中优先级最高的&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;② 从cache中拿到当前scheduler通过informer收集到的集群中的所有node信息的snapshot，每个node的信息除了包含其本身的节点信息外，还包含已经在该node上运行的pod信息、运行了哪些带有affinity/antiaffinity的pod、端口占用情况、资源使用情况、本地容器镜像列表等信息。这些信息都是scheduler的插件对节点进行过滤、打分时的依据&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;③ 执行所有挂在PreFilter点上的插件，这些插件主要收集待调度pod的影响接下来的Filter插件过滤是否通过的信息，例如请求的资源、affinity/antiaffinity要求、port使用情况、volume定义等等，为后面的Filter点的插件做过滤做准备。有些在这个点的插件也会对pod的spec进行某些检查，如果检查不通过，有可能在这个阶段pod就会变成不可调度了&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;④ 执行所有挂在Filter点上的插件。&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;如果待调度的pod的Status.&lt;/span&gt;NominatedNodeName不为空，即表明该pod之前已经尝试过调度，但是当时过滤的结果没有一个feasible node供其完成调度。于是其通过挂在PostFilter点上的preempt插件进行抢占操作后，得出的结果node就记录在pod的Status.NominatedNodeName中。因此在本次调度时，优先选择这个nominated node进行Filter操作。如果这个node成功通过了所有Filter插件的过滤，那么这个node会正式成为本轮Filter过滤出来的唯一一个feasible node。如果这个node过滤失败，或者待调度pod根本没有nominated node，就进行下面的步骤&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;逐个轮询snapshot中的node，对其进行所有Filter插件的过滤。通过过滤的就会成为feasible node进行后续的插件执行流程，没通过的node就会在这个阶段淘汰。所以通过Filter点后，最终返回的会是一堆候选的feasible node&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;这里有一个细节。在轮询到某个node的时候，scheduler会从pod nominator中查出这个node上有哪些比当前待调度pod优先级高的nominated pod。由于scheduler假定这些nominated pod将来是有可能调度到这个node上的，因此在进行Filter插件过滤的时候，会进行两次过滤。第一次过滤时会将这些nominated pod添加到node上，然后走一次所有的Filter插件，如果成功通过，那么第二次，会把这些nominated pod在node上去掉，再走一次所有插件。只有两次的结果都通过，这个node才会成为feasible node。这么做的目的，主要是为了保证高优先级的pod，在将来再次尝试调度的时候，前一次调度时通过抢占为其腾出的资源、亲和性等条件不会由于当前低优先级pod的调度而被破坏，也就是始终尽最大可能保证高优先级的pod被成功调度&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;⑤ 在经过Filter点后，如果发现过滤出来的feasible node列表为空，也就是当前没有一个node可供待调度pod进行调度。那么就会进入PostFilter点。PostFilter点当前只挂了一个插件，也就是抢占插件DefaultPreemption。在经过Filter点后，会给出每个node不合适进行调度的理由，其中会标记哪些node通过抢占后可能可以供当前pod进行调度。因此抢占的流程大概如下：&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;在那些unschedulable node中选出通过抢占可能导致当前pod调度成功的node作为候选的nominated node&lt;/li&gt;&lt;li&gt;遍历这些候选node，对每个node进行dry run，也就是对这些node，筛选出在该pod上运行的但优先级比待调度pod低的pod，作为潜在的抢占victims。首先将其全部从node上删除，在重新对该node执行Filter点上的过滤操作。如果通过了，再将这些潜在victims按优先级高低逐一重新加回到node，直到Filter不通过，此时最终筛选出来的就是这个node作为nominated node的victim pods。如果一个victim pod都没有，证明这个node不能作为待调度pod的候选抢占运行node&lt;/li&gt;&lt;li&gt;找到所有候选的node及其对应的victims后，从中选出最优的一个node，通过与api server通信，将其上的victims全部驱逐，然后将pod的Status.NominatedNodeName设置为上述的最终候选node，记录到pod nominator中&lt;/li&gt;&lt;li&gt;将待调度pod重新放回scheduling queue的unschedulable pods队列，等待下一次调度尝试。这里这个pod的这次调度尝试到此就结束了，不会再执行后面的extension point&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;⑥ 执行所有挂在PreScore点的插件，这些插件主要完成一些打分前的准备工作，收集待调度pod的一些影响打分的信息，例如prefer not schedule的toleration信息、node prefer affinity信息、pod prefer affinity信息等&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;⑦ 执行所有挂在Score点的插件，这些插件会对Filter过滤出来的所有feasible node进行打分，打分的依据按不同的插件可能有node是否符合prefer affinity、node上运行的pod是否符合prefer pod affinity、node上的taint是否符合prefer not schedule toleration等等。每个插件打完分后，会将分数全部加起来，作为每个feasible node的最终分数。最终选出分数最高的一个，作为待调度pod的唯一候选node&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;⑧&lt;/div&gt;&lt;div&gt;⑨&lt;/div&gt;&lt;div&gt;⑩&lt;/div&gt;&lt;div&gt;⑪&lt;/div&gt;&lt;div&gt;⑫&lt;/div&gt;&lt;div&gt;⑬&lt;/div&gt;&lt;div&gt;⑭&lt;/div&gt;&lt;div&gt;⑮&lt;/div&gt;&lt;div&gt;⑯&lt;/div&gt;&lt;div&gt;⑰&lt;/div&gt;&lt;div&gt;⑱&lt;br&gt;&lt;/div&gt;" style="rounded=0;fontFamily=Lucida Console;fontSize=14;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;shadow=0;sketch=0;glass=0;labelPosition=center;verticalLabelPosition=middle;spacing=2;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2440" y="1810" width="560" height="1410" as="geometry" />
         </mxCell>
         <mxCell id="0mLKpLw8jlc4pZlw2vI9-166" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;fontSize=14;fillColor=#f8cecc;strokeColor=none;" edge="1" parent="1" source="0mLKpLw8jlc4pZlw2vI9-163" target="T8-VolRiWS7lJ4Z5xE2T-30">
           <mxGeometry relative="1" as="geometry" />
